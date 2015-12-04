@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00bcd4</color>
+    <color name="colorPrimaryDark">#0096aa</color>
+    <color name="colorAccent">#00bcd4</color>
+    <color name="generalText">#424242</color>
+
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+
+    <color name="gplus_color_1">#2196F3</color>
+    <color name="gplus_color_2">#03A9F4</color>
+    <color name="gplus_color_3">@color/colorPrimary</color>
+    <color name="gplus_color_4">#009688</color>
+
+
+</resources>
